@@ -1,0 +1,29 @@
+#footer1 {
+	position: static;
+	left: 0;
+	bottom: 0;
+	padding: 0px;
+	background: rgba(69, 69, 69, 0.7);
+	width: 100%;
+}
+.fig {
+	text-align: center;
+}
+p.my_site {
+	margin: 3% 0% 3%;
+	font-size: medium;
+	font-family: Georgia;
+}
+.container-site {
+	width: 900px;
+	text-align: left;
+	margin: auto;
+}
+table.table {
+	border-right: 1px #808080;
+	color: red;	
+}
+.double {
+	float: center;
+	margin: 0px 20px 0px 0;
+}
